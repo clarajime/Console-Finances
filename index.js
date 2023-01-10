@@ -112,7 +112,7 @@ for (var i = 0; i < finances.length; i++) {
   }
 }
 
-var averageProfitLossChange = parseInt(totalProfitLoss / totalMonths);
+var averageProfitLossChange = parseInt (totalProfitLossChange / (totalMonths -1) );
 
 // Print results
 console.log("Total months: " + totalMonths);

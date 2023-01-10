@@ -30,7 +30,7 @@ My task was to write JavaScript code that analyzes the records to calculate each
 ## Screenshot
 * Screenshot of the result in the console
 
-![alt text](assets/Demo2.PNG)
+![alt text](assets/demo3.PNG)
 
 
 ## License 
