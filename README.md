@@ -28,7 +28,8 @@ My task was to write JavaScript code that analyzes the records to calculate each
 * https://clarajime.github.io/Console-Finances/
 
 ## Screenshot
-* Demo of the result in the console
+* Screenshot of the result in the console
+
 ![alt text](assets/Demo2.PNG)
 
 
