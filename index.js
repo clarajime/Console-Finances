@@ -117,6 +117,6 @@ var averageProfitLossChange = parseInt(totalProfitLossChange / (totalMonths -1))
 // Print results
 console.log("Total months: " + totalMonths);
 console.log("Total profit/loss: $" + totalProfitLoss);
-console.log("Minimum profit/loss: Sep-20013 $" + minProfitLoss);
+console.log("Minimum profit/loss: Sep-2013 $" + minProfitLoss);
 console.log("Maximum profit/loss: Feb-2012 $" + maxProfitLoss);
 console.log("Average Change: $" + averageProfitLossChange);
