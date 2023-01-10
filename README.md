@@ -29,7 +29,7 @@ My task was to write JavaScript code that analyzes the records to calculate each
 
 ## Screenshot
 * Demo of the result in the console
-![alt text](assets/Demo.PNG)
+![alt text](assets/Demo2.PNG)
 
 
 ## License 
