@@ -112,11 +112,11 @@ for (var i = 0; i < finances.length; i++) {
   }
 }
 
-var averageProfitLossChange = parseInt(totalProfitLossChange / (totalMonths -1));
+var averageProfitLossChange = parseInt(totalProfitLoss / totalMonths);
 
 // Print results
 console.log("Total months: " + totalMonths);
 console.log("Total profit/loss: $" + totalProfitLoss);
+console.log("Average Change: $" + averageProfitLossChange);
 console.log("Minimum profit/loss: Sep-2013 $" + minProfitLoss);
 console.log("Maximum profit/loss: Feb-2012 $" + maxProfitLoss);
-console.log("Average Change: $" + averageProfitLossChange);
